@@ -3,7 +3,7 @@ package config
 import (
 	"testing"
 
-	"github.com/conventionalcommit/commitlint/internal/registry"
+	"github.com/zexot-com/commitlint/internal/registry"
 )
 
 func TestDefaultLint(t *testing.T) {
