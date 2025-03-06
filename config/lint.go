@@ -3,8 +3,8 @@ package config
 import (
 	"fmt"
 
-	"github.com/conventionalcommit/commitlint/internal/registry"
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/internal/registry"
+	"github.com/zexot-com/commitlint/lint"
 )
 
 // NewLinter returns Linter for given confFilePath
