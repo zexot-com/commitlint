@@ -1,5 +1,7 @@
 # commitlint
 
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/zexot-com/commitlint)](https://pkg.go.dev/github.com/zexot-com/commitlint)![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/zexot-com/commitlint)
+
 commitlint checks if your commit message meets the [conventional commit format](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ```
