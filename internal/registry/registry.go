@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/conventionalcommit/commitlint/formatter"
-	"github.com/conventionalcommit/commitlint/lint"
-	"github.com/conventionalcommit/commitlint/rule"
+	"github.com/zexot-com/commitlint/formatter"
+	"github.com/zexot-com/commitlint/lint"
+	"github.com/zexot-com/commitlint/rule"
 )
 
 var globalRegistry = newRegistry()
