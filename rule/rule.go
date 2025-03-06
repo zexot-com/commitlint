@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/lint"
 )
 
 func errInvalidArg(ruleName string, err error) error {
