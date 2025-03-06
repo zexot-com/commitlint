@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/conventionalcommit/commitlint/internal"
+	"github.com/zexot-com/commitlint/internal"
 )
 
 func printDebug() error {
