@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/conventionalcommit/commitlint/internal/hook"
+	"github.com/zexot-com/commitlint/internal/hook"
 )
 
 const (
