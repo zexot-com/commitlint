@@ -1,4 +1,4 @@
-module github.com/conventionalcommit/commitlint
+module github.com/zexot-com/commitlint
 
 go 1.23.0
 
