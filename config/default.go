@@ -1,10 +1,10 @@
 package config
 
 import (
-	"github.com/conventionalcommit/commitlint/formatter"
-	"github.com/conventionalcommit/commitlint/internal"
-	"github.com/conventionalcommit/commitlint/lint"
-	"github.com/conventionalcommit/commitlint/rule"
+	"github.com/zexot-com/commitlint/formatter"
+	"github.com/zexot-com/commitlint/internal"
+	"github.com/zexot-com/commitlint/lint"
+	"github.com/zexot-com/commitlint/rule"
 )
 
 // NewDefault returns default config
