@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/lint"
 )
 
 const (
