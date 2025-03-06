@@ -6,7 +6,7 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/conventionalcommit/commitlint/internal"
+	"github.com/zexot-com/commitlint/internal"
 )
 
 // newCliApp returns commitlint cli.App
