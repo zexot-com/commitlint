@@ -1,5 +1,3 @@
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/conventionalcommit/commitlint)](https://pkg.go.dev/github.com/conventionalcommit/commitlint)
-
 # commitlint
 
 commitlint checks if your commit message meets the [conventional commit format](https://www.conventionalcommits.org/en/v1.0.0/)
@@ -45,12 +43,12 @@ commitlint checks if your commit message meets the [conventional commit format](
 
 ### Releases
 
-Download binary from [releases](https://github.com/conventionalcommit/commitlint/releases) and add it to your `PATH`
+Download binary from [releases](https://github.com/zexot-com/commitlint/releases) and add it to your `PATH`
 
 ### Using go
 
 ```bash
-go install github.com/conventionalcommit/commitlint@latest
+go install github.com/zexot-com/commitlint@latest
 ```
 
 ## Setup
@@ -289,7 +287,7 @@ If you encounter the `command not found: commitlint` error after installing `com
    If the binary is missing, reinstall `commitlint`:
 
    ```bash
-   go install github.com/conventionalcommit/commitlint@latest
+   go install github.com/zexot-com/commitlint@latest
    ```
 
 4. **Post-Verification**:
