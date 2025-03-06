@@ -1,6 +1,6 @@
 package rule
 
-import "github.com/conventionalcommit/commitlint/lint"
+import "github.com/zexot-com/commitlint/lint"
 
 var _ lint.Rule = (*FooterMaxLineLenRule)(nil)
 
