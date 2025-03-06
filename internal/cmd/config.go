@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/conventionalcommit/commitlint/config"
+	"github.com/zexot-com/commitlint/config"
 )
 
 // configCreate is the callback function for create config command
