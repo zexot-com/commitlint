@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/conventionalcommit/commitlint/config"
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/config"
+	"github.com/zexot-com/commitlint/lint"
 	"github.com/urfave/cli/v2"
 )
 
