@@ -11,10 +11,10 @@ import (
 	"golang.org/x/mod/semver"
 	yaml "gopkg.in/yaml.v2"
 
-	"github.com/conventionalcommit/commitlint/formatter"
-	"github.com/conventionalcommit/commitlint/internal"
-	"github.com/conventionalcommit/commitlint/internal/registry"
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/formatter"
+	"github.com/zexot-com/commitlint/internal"
+	"github.com/zexot-com/commitlint/internal/registry"
+	"github.com/zexot-com/commitlint/lint"
 )
 
 // Parse parse given file in confPath, and return Config instance, error if any
