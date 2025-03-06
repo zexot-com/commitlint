@@ -1,6 +1,6 @@
 package lint
 
-import "github.com/conventionalcommit/parser"
+import "github.com/zexot-com/commitlint-parser"
 
 type defaultParser struct {
 	p *parser.Parser
