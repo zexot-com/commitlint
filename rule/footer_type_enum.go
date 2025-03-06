@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/lint"
 )
 
 var _ lint.Rule = (*FooterTypeEnumRule)(nil)
