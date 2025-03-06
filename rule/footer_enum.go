@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/conventionalcommit/commitlint/lint"
+	"github.com/zexot-com/commitlint/lint"
 )
 
 var _ lint.Rule = (*FooterEnumRule)(nil)
